@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Daniele Buschi an Applied Physicis from Alma Mater Studiorum Bologna.
+I'm Daniele Buschi an Applied Physicist from Alma Mater Studiorum Bologna.
 - 🔭 I’m currently working on machine learning application on medical fied
 - 📫 How to reach me: danybuschi@gmail.com
 <!--
