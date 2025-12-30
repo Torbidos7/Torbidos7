@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I'm Daniele Buschi an Applied Physicist from Alma Mater Studiorum Bologna.
-- 🔭 I’m currently working on AI and machine learning application on medical fied
+- 🔭 I’m currently working on AI and machine learning application.
 - 📫 How to reach me: danybuschi@gmail.com
 <!--
 **Torbidos7/Torbidos7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
